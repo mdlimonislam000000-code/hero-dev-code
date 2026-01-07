@@ -291,4 +291,10 @@ footer h2{
 }
  .footer-container form textarea {
     margin: auto;
+    width: 461px;
+    padding: 18px 31px;
+    margin-bottom: 24px;
+    border: none;
+    border-radius: 5px;
+    
  }
